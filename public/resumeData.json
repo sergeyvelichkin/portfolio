@@ -14,8 +14,8 @@
       "state": "USA",
       "zip": "80112"
     },
-    "website": "*",
-    "resumedownload": "*",
+    "website": "https://www.sergeivelichkin.com",
+    "resumedownload": "public/files/resume.docx",
     "social": [
       {
         "name": "facebook",
