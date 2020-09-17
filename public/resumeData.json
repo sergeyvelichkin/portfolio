@@ -99,10 +99,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "*"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with React,Context API, Firebase Cloud Tools",
+        "image": "amazon-clone.jpeg",
+        "url": "https://clone-cac06.web.app/"
       },
       {
         "title": "MERN Stack TikTok Clone",
@@ -114,18 +114,6 @@
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
-        "url": "*"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "*"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
         "url": "*"
       }
     ]
