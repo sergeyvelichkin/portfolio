@@ -15,7 +15,7 @@
       "zip": "80112"
     },
     "website": "https://www.sergeivelichkin.com",
-    "resumedownload": "files/resume.docx",
+    "resumedownload": "files/resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -103,18 +103,6 @@
         "category": "Amazon Clone built with React,Context API, Firebase Cloud Tools",
         "image": "amazon-clone.jpeg",
         "url": "https://clone-cac06.web.app/"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "*"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "*"
       }
     ]
   },
