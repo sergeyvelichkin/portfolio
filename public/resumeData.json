@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Sergei Velichkin",
-    "occupation": "Full Stack Developer and also learning iOS Development",
+    "occupation": "Full Stack Developer, learning iOS Development",
     "description": "Full Stack React Developer by Day, Freelancer by Night",
     "image": "image-av.jpeg",
-    "bio": "My name is Sergei, I'm a Full Stack ReactJS Developer. Currently I'm working at Brisk Transportation while also learning everyday some new stuff ",
+    "bio": "My name is Sergei, I'm a Full Stack Developer. Currently I'm working at Brisk Transportation",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "sergey.velichkin@gmail.com",
     "phone": "+312 945 2867",
@@ -103,6 +103,12 @@
         "category": "Amazon Clone built with React,Context API, Firebase Cloud Tools",
         "image": "amazon-clone.jpeg",
         "url": "https://clone-cac06.web.app/"
+      },
+      {
+        "title": "S3 Uploader",
+        "category": "File Uploader to Amazon S3 Bucket and providinf short URL for an easy use",
+        "image": "s3uploader.jpeg",
+        "url": "https://fileups3.herokuapp.com/"
       }
     ]
   },
