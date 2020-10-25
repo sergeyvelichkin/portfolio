@@ -109,6 +109,12 @@
         "category": "File Uploader to Amazon S3 Bucket and providinf short URL for an easy use",
         "image": "s3uploader.jpeg",
         "url": "https://fileups3.herokuapp.com/"
+      },
+      {
+        "title": "Covid19 tracker",
+        "category": "Covid 19 tracker app, built with React, Chart.js, Leaflet",
+        "image": "covid19tracker.jpeg",
+        "url": "https://bestcovid19tracker.netlify.app/"
       }
     ]
   },
