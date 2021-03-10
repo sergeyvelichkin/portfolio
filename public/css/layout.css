@@ -180,6 +180,33 @@ ul#nav li a {
 
 ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #F06000; }
+ul#nav li a::after, ul#nav li a::before {
+    content: '';
+    position: absolute;
+    bottom: 2px;
+    left: 0; right: 0;
+    height: 2px;
+    background-color: red;
+}
+
+ul#nav li a::before {
+    opacity: 0;
+    transform: translateY(- 8px);
+    transition: transform 0s cubic-bezier(0.175, 0.885, 0.320, 1.275), opacity 0s;
+}
+ul#nav li a::after {
+    opacity: 0;
+    transform: translateY(4px);
+    transition: transform .2s cubic-bezier(0.175, 0.885, 0.320, 1.275), opacity .2s;
+}
+
+ul#nav li a:hover::before,ul#nav li a:hover::after, ul#nav li a:focus::before, ul#nav li a:focus::after {
+    opacity: 1;
+    transform: translateY(0);
+}
+ul#nav li a:hover::before, ul#nav li a:focus::before {
+    transition: transform .2s cubic-bezier(0.175, 0.885, 0.320, 1.275), opacity .2s;
+}
 
 
 /* ------------------------------------------------------------------ */
@@ -439,7 +466,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
-
+   height: 130px;
    overflow: hidden;
    position: relative;
 
