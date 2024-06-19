@@ -58,14 +58,20 @@
         "work": [
             {
                 "company": "Tetrascience",
-                "title": "Senior Software Engineer",
-                "years": "Jun 22 - Present",
+                "title": "Senior Frontend Software Engineer",
+                "years": "Apr 24 - Present",
+                "description": "Working on cross platform web app for managing public safety professionals"
+            },
+            {
+                "company": "Tetrascience",
+                "title": "Middle Frontend Software Engineer",
+                "years": "Jun 21 - Present",
                 "description": "Working on cross platform web app for managing public safety professionals"
             },
             {
                 "company": "SMG Mobile",
                 "title": "Full Stack Web Developer",
-                "years": "Sep 20 - Jun 22",
+                "years": "Sep 20 - Jun 21",
                 "description": "Working on cross platform web app for managing public safety professionals"
             }
         ],
