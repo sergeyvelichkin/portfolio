@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Sergei Velichkin",
-        "occupation": "Full Stack Developer",
+        "occupation": "Software Engineer (Front-end focus)",
         "description": "",
         "image": "image-av.jpeg",
         "bio": "Sergei Velichkin",
@@ -10,11 +10,11 @@
         "phone": "+312 945 2867",
         "address": {
             "street": "",
-            "city": "Denver",
+            "city": "Atlanta",
             "state": "USA",
-            "zip": "80112"
+            "zip": "30028"
         },
-        "website": "https://www.sergeivelichkin.com",
+        "website": "https://www.svel.dev",
         "resumedownload": "files/resume.pdf",
         "social": [
             {
@@ -44,7 +44,7 @@
         "education": [
             {
                 "school": "University of Denver",
-                "degree": "Web Developmentw",
+                "degree": "Web Development",
                 "graduated": "December 2018",
                 "description": "Wanted to get more experience and learn how to work as a team"
             },
@@ -57,21 +57,21 @@
         ],
         "work": [
             {
-                "company": "SMG Mobile",
-                "title": "Full Stack Web Developer",
-                "years": "Sep 20 - Present",
+                "company": "Tetrascience",
+                "title": "Senior Software Engineer",
+                "years": "Jun 22 - Present",
                 "description": "Working on cross platform web app for managing public safety professionals"
             },
             {
-                "company": "Brisk Transportation",
-                "title": "Software Engineer",
-                "years": "Jan 2019 - Aug 2020",
-                "description": "Developed custom software to track truck loads, truck drivers"
+                "company": "SMG Mobile",
+                "title": "Full Stack Web Developer",
+                "years": "Sep 20 - Jun 22",
+                "description": "Working on cross platform web app for managing public safety professionals"
             }
         ],
         "skills": [
             {
-                "name": "ReactJs",
+                "name": "React",
                 "level": "100%"
             },
             {
@@ -93,6 +93,14 @@
             {
                 "name": "MongoDB",
                 "level": "100%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "Django",
+                "level": "80%"
             }
         ]
     },
@@ -103,12 +111,6 @@
                 "category": "Amazon Clone built with React,Context API, Firebase Cloud Tools",
                 "image": "amazon-clone.jpeg",
                 "url": "https://clone-cac06.web.app/"
-            },
-            {
-                "title": "S3 Uploader",
-                "category": "File Uploader to Amazon S3 Bucket and providinf short URL for an easy use",
-                "image": "s3uploader.jpeg",
-                "url": "https://fileups3.herokuapp.com/"
             },
             {
                 "title": "Covid19 tracker",
